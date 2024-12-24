@@ -14,7 +14,25 @@
 
 ### About Me
 ```yaml
-Hobbies: 
+name: Myles Barney
+located_in: Utah County, Utah
+education:
+  [
+    "Brigham Young University" : "Bachelor of Science, Computer Science - Machine Learning",
+    "Multiple Universities" : "Applied to Graduate Programs",
+  ]
+current_job: Research Assistant
+
+interests:
+  [
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Machine Translation",
+    "Language Preservation",
+    "Data Science",
+  ]
+
+hobbies: ["Language Learning", "Traveling", "Film Photography", "Gaming", "Reading"] 
 ```
 
 <!--
