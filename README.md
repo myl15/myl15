@@ -19,7 +19,7 @@ located_in: Utah County, Utah
 education:
   [
     "Brigham Young University" : "Bachelor of Science, Computer Science - Machine Learning",
-    "Multiple Universities" : "Applied to Graduate Programs",
+    "Brigham Young University" : "Accepted to PhD Program, Fall 2025",
   ]
 current_job: Research Assistant
 
